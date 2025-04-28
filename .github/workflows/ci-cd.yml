@@ -39,5 +39,5 @@ jobs:
       uses: akhileshns/heroku-deploy@v3.12.12
       with:
         heroku_api_key: ${{ secrets.HEROKU_API_KEY }}
-        heroku_app_name: "nombre-de-tu-app-heroku"
-        heroku_email: "tu-correo@ejemplo.com"
+        heroku_app_name: "mi-app-flask"
+        heroku_email: "marlon.artunduaga@uniminuto.edu.co"
